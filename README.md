@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Sobre mí
+¡Hola! Soy Fran 😎, un estudiante de 1DAW apasionado por el mundo del diseño web. Me encanta aprender sobre nuevas tecnologías y tendencias en el diseño y desarrollo de sitios web. Actualmente, estoy enfocando mis estudios en [mencionar alguna área específica que te interese, como por ejemplo, el desarrollo front-end o la experiencia de usuario]. Estoy emocionado por compartir mis proyectos y seguir creciendo en esta apasionante industria. :computer: :art: :rocket:
 <!--
 **Fransito1293/Fransito1293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
